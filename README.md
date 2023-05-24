@@ -13,6 +13,8 @@ Requerimentos: `transformers`
 
 Para instalar basta apenas correr `git clone https://github.com/vluz/Albertina-Test.git`
 <br>
+De seguida correr `pip install -r requirements.txt`
+<br>
 Depois correr `python test.py` para executar
 
 Resultado esperado e exemplos:
