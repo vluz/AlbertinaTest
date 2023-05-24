@@ -1,15 +1,15 @@
 # Albertina-Test
 Teste rápido e simples do modelo Albertina PT-PT
 
-Modelo: https://huggingface.co/PORTULAN/albertina-ptpt
+**Modelo:** https://huggingface.co/PORTULAN/albertina-ptpt
 <br>
-Publicação: https://arxiv.org/abs/2305.06721
+**Publicação:** https://arxiv.org/abs/2305.06721
 
 Python ligeiramente modificado para teste com qualquer frase
 
 **Atenção:** Não usar em produção, não testado
 
-Requerimentos: transformers
+Requerimentos: `transformers`
 
 Para instalar basta apenas correr `git clone https://github.com/vluz/Albertina-Test.git`
 <br>
