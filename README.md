@@ -7,7 +7,9 @@ Publicação: https://arxiv.org/abs/2305.06721
 
 Python ligeiramente modificado para teste com qualquer frase
 
-Atenção: Não usar em produção, não testado
+**Atenção:** Não usar em produção, não testado
+
+Requerimentos: transformers
 
 Para instalar basta apenas correr `git clone https://github.com/vluz/Albertina-Test.git`
 <br>
