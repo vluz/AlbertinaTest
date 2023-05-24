@@ -2,6 +2,7 @@
 Teste rápido e simples do modelo Albertina PT-PT
 
 Modelo: https://huggingface.co/PORTULAN/albertina-ptpt
+<br>
 Publicação: https://arxiv.org/abs/2305.06721
 
 Python ligeiramente modificado para teste com qualquer frase
@@ -23,7 +24,9 @@ Pontuação   Palavra            Resultado
 0.98 %      nuances            A culinária portuguesa é rica em sabores e nuances, tornando-se um dos maiores tesouros do país.
 0.72 %      aroma              A culinária portuguesa é rica em sabores e aroma, tornando-se um dos maiores tesouros do país.
 ```
+
 <br>
+
 ```
 Quero ver o [MASK] da casa
 Pontuação   Palavra            Resultado
@@ -33,7 +36,9 @@ Pontuação   Palavra            Resultado
 5.75 %      site               Quero ver o site da casa
 5.17 %      estado             Quero ver o estado da casa
 ```
+
 <br>
+
 ```
 A [MASK] é inimiga da perfeição
 Pontuação   Palavra            Resultado
