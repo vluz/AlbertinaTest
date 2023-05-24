@@ -9,6 +9,7 @@ Python ligeiramente modificado para teste com qualquer frase
 Atenção: Não usar em produção, não testado
 
 Para instalar basta apenas correr `git clone https://github.com/vluz/Albertina-Test.git`
+<br>
 Depois correr `python test.py` para executar
 
 Resultado esperado e exemplos:
