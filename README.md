@@ -1,5 +1,5 @@
 # Albertina Test
-### Teste rápido e simples do modelo Albertina PT-PT
+### Teste rápido e simples do modelo Albertina pt-PT
 
 <hr>
 
